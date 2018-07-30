@@ -5,8 +5,8 @@ This python program helps a user create an estimate for customers. There are thr
 
           
 This program makes use of:
-* rint function
-* eval input print statements
-* variables 
-* print function optional arguments
+* Print functions
+* Eval input print statements
+* Variables 
+* Print function optional arguments
 
